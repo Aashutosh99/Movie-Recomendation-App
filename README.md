@@ -15,8 +15,7 @@ This is a simple Python application that recommends movies based on your chosen 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Aashutosh99/my_python_projects.git
-   cd movie-recommendation-progam
+   git clone https://github.com/Aashutosh99/Movie-Recomendation-App.git
    ```
 
 2. **Install dependencies:**
